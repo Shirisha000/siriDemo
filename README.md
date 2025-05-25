@@ -1,3 +1,3 @@
 # siriDemo
-This is my repository
+This is my repository.
 Author-Shirisha
